@@ -89,3 +89,11 @@
 .column__icon:hover .column__txt{
     color: black;
 }
+
+
+@media screen and (max-width:570px){
+    .info__info{
+        flex-direction: column;
+        gap: 50px;
+    }
+}

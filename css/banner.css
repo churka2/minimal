@@ -43,3 +43,9 @@
     text-align: center;
 }
 
+@media screen and (max-width:570px){
+    .banner__h1 {
+        font-size: 29px;
+        line-height: 40px;
+    }
+}

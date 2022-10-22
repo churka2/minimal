@@ -36,10 +36,10 @@
     justify-content: center;
     align-items: center;
     gap: 20px;
-
+    flex-wrap: wrap
 }
 
-.profile{
+.profile {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -66,7 +66,7 @@
     margin-bottom: 33px;
 }
 
-.profile__icons{
+.profile__icons {
     display: flex;
     justify-content: center;
     align-items: center;

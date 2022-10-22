@@ -60,3 +60,10 @@
     margin-top: 24px;
     margin-bottom: 10px;
 }
+
+
+@media screen and (max-width:570px){
+    .comment__wrap{
+        flex-direction: column
+    }
+}
